@@ -1,34 +1,39 @@
 {
   "events": [
     {
-      "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
+      "id": 1,
+      "title": "1.Dezember",
+      "content": "Hello 1"
     },
+
     {
-      "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "organizer": "Fern Pollin"
+      "id": 2,
+      "title": "2.Dezember",
+      "content": "Hello 2"
     },
+
     {
-      "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "organizer": "Carey Wales"
-    }
+      "id": 3,
+      "title": "3.Dezember",
+      "content": "Hello 3"
+    },
+
+    {
+      "id": 4,
+      "title": "4.Dezember",
+      "content": "Hello 4"
+    },
+
+    {
+      "id": 5,
+      "title": "5.Dezember",
+      "content": "Hello 5"
+    },
+
+    {
+      "id": 6,
+      "title": "6.Dezember",
+      "content": "Hello 6"
+    },
   ]
 }
