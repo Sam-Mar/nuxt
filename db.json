@@ -1,37 +1,32 @@
- [
-    {
-      "id": 1,
-      "title": "1.Dezember",
-      "content": "Hello 1"
-    },
-
-    {
-      "id": 2,
-      "title": "2.Dezember",
-      "content": "Hello 2"
-    },
-
-    {
-      "id": 3,
-      "title": "3.Dezember",
-      "content": "Hello 3"
-    },
-
-    {
-      "id": 4,
-      "title": "4.Dezember",
-      "content": "Hello 4"
-    },
-
-    {
-      "id": 5,
-      "title": "5.Dezember",
-      "content": "Hello 5"
-    },
-
-    {
-      "id": 6,
-      "title": "6.Dezember",
-      "content": "Hello 6"
-    },
-  ]
+[
+   {
+     "id": 1,
+     "title": "1.Dezember",
+     "content": "Hello 1"
+   },
+   {
+     "id": 2,
+     "title": "2.Dezember",
+     "content": "Hello 2"
+   },
+   {
+     "id": 3,
+     "title": "3.Dezember",
+     "content": "Hello 3"
+   },
+   {
+     "id": 4,
+     "title": "4.Dezember",
+     "content": "Hello 4"
+   },
+   {
+     "id": 5,
+     "title": "5.Dezember",
+     "content": "Hello 5"
+   },
+   {
+     "id": 6,
+     "title": "6.Dezember",
+     "content": "Hello 6"
+   },
+]
