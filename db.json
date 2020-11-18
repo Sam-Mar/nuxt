@@ -1,5 +1,4 @@
-{
-  "events": [
+ [
     {
       "id": 1,
       "title": "1.Dezember",
@@ -36,4 +35,3 @@
       "content": "Hello 6"
     },
   ]
-}
