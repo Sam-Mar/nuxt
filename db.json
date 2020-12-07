@@ -1,0 +1,19 @@
+{
+  "content": [
+    brands: [
+      { text: 'Volkswagen', value: '0'},
+      { text: 'Volkswagen2', value: '1'},
+     ],
+    vehicles: [
+      { text: 'Fahrzeug', value: '0'},
+      { text: 'e-load up!', value: '11.7' },
+      { text: 'ID.3 Pro', value: '13.8' },
+      { text: 'ID.6', value: '18' }
+    ],
+    profiles: [
+      { text: 'Nur Stadt', value: '1'},
+      { text: 'Stadt und etwas Autobahn', value: '1.1'},
+      { text: 'Stadt und viel Autobahn', value: '1.2'}
+    ],
+  ]
+}
